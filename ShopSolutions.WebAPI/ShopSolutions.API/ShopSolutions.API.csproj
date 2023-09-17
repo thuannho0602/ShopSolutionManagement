@@ -23,4 +23,6 @@
     <ProjectReference Include="..\ShopSolutions.DataAccess\ShopSolutions.DataAccess.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1development_1json__JsonSchema="https://developer.1password.com/schema/ssh-agent-config.json" /></VisualStudio></ProjectExtensions>
+
 </Project>

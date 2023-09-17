@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj": {}
+    "D:\\ShopSolutionManagement\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj": {
+    "D:\\ShopSolutionManagement\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj",
+        "projectUniqueName": "D:\\ShopSolutionManagement\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj",
         "projectName": "ShopSolutions.Entity",
-        "projectPath": "D:\\C#\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj",
+        "projectPath": "D:\\ShopSolutionManagement\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\ShopSolutions.Entity.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\obj\\",
+        "outputPath": "D:\\ShopSolutionManagement\\ShopSolutions.WebAPI\\ShopSolutions.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

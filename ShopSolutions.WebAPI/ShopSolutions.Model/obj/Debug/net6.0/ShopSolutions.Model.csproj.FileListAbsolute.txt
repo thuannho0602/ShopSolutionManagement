@@ -1,0 +1,12 @@
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\bin\Debug\net6.0\ShopSolutions.Model.deps.json
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\bin\Debug\net6.0\ShopSolutions.Model.dll
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\bin\Debug\net6.0\ShopSolutions.Model.pdb
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.csproj.AssemblyReference.cache
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.AssemblyInfoInputs.cache
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.AssemblyInfo.cs
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.csproj.CoreCompileInputs.cache
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.dll
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\refint\ShopSolutions.Model.dll
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ShopSolutions.Model.pdb
+D:\ShopSolutionManagement\ShopSolutions.WebAPI\ShopSolutions.Model\obj\Debug\net6.0\ref\ShopSolutions.Model.dll
