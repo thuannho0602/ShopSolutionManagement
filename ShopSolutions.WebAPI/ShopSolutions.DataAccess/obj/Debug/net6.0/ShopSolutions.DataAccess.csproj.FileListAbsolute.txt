@@ -1,0 +1,17 @@
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\bin\Debug\net6.0\ShopSolutions.DataAccess.deps.json
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\bin\Debug\net6.0\ShopSolutions.DataAccess.runtimeconfig.json
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\bin\Debug\net6.0\ShopSolutions.DataAccess.dll
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\bin\Debug\net6.0\ShopSolutions.DataAccess.pdb
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\bin\Debug\net6.0\ShopSolutions.Entity.dll
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\bin\Debug\net6.0\ShopSolutions.Entity.pdb
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.csproj.AssemblyReference.cache
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.AssemblyInfoInputs.cache
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.AssemblyInfo.cs
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.csproj.CopyComplete
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.dll
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\refint\ShopSolutions.DataAccess.dll
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.pdb
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ShopSolutions.DataAccess.genruntimeconfig.cache
+D:\C#\ShopSolutions.WebAPI\ShopSolutions.DataAccess\obj\Debug\net6.0\ref\ShopSolutions.DataAccess.dll
